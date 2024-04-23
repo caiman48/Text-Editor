@@ -6,6 +6,11 @@ Progressive Web Applications (PWA) push the boundaries of web capabilities to de
 
 This project develops a browser-based text editor that functions as a single-page application meeting PWA criteria. It incorporates various data persistence techniques to ensure functionality even when certain browser features are unsupported. The editor is capable of running offline and utilizes the `idb` package—a lightweight wrapper for IndexedDB—to handle data storage and retrieval efficiently. This project is a demonstration of real-world application development.
 
+
+![Prueba](https://github.com/caiman48/Text-Editor/assets/102683872/4412dae4-0bfd-439b-adb9-79890a115998)
+
+
+
 ## Installation
 
 ### Prerequisites
